@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/alerts",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ReactNMS",
+      "hasCanvas": false,
+      "bodyTextLen": 904,
+      "bodyTextHash": "c6c0affa5c14f0cef0e8d393397a535a74e3fd4c1bf855280a0bb5f64deb04a5",
+      "bodyTextPrefix": "ReactNMS Bayline Metro poll 18420 Overview Devices Topology Aler",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/alerts.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ReactNMS",
+      "hasCanvas": false,
+      "bodyTextLen": 904,
+      "bodyTextHash": "403efa3b63138ee39b015629e5a2d0b326dbbc16ed80d894a63cbdc76e99cfd7",
+      "bodyTextPrefix": "ReactNMS Bayline Metro poll 18420 Alerts Acknowledge stays in th",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/alerts-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/alerts.json"
+}
